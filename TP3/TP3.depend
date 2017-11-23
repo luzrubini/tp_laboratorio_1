@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1511400272 source:c:\users\luz\documents\utn\primer cuatrimestre\programación i\ejercicios\tp3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"funciones.h"
+
+1511400555 c:\users\luz\documents\utn\primer cuatrimestre\programación i\ejercicios\tp3\funciones.h
+
+1511400404 source:c:\users\luz\documents\utn\primer cuatrimestre\programación i\ejercicios\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"funciones.h"
+
