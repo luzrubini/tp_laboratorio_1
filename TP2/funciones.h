@@ -1,6 +1,12 @@
 #ifndef FUNCIONES_H_INCLUDED
 #define FUNCIONES_H_INCLUDED
-
+sb sb = new sb();
+foreach(V item in this._v)
+{
+    sb.appendline(item.tostring());
+}
+return sb.tostring();
+//completo resto con append line.
 typedef struct {
 
     char nombre[50];
